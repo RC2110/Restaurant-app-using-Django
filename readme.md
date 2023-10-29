@@ -10,3 +10,5 @@ then can python manage.py runserver
 
 python manage.py makemigrations
 python manage.py migrate
+
+We are following class based views here.
